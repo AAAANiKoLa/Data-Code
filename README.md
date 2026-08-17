@@ -1,3 +1,3 @@
-This project is for optical simulation about scattering system transmission;
-and  the code is for the work 'compressive optical transmission matrix for dynamic scattering system' ;
-and the code would be updated in the future (07/25/2025);
+This code simulates a workflow for compressive optical transmission matrix for dynamic scattering imaging;
+It models the construction of a compressive matrix K and the imaging process after
+acquiring the complex optical field without using a reference beam.
